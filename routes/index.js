@@ -17,6 +17,8 @@ router.post('/uploadImage', async (req, res, next) => {
     // console.log(result)
     const labels = result[0].textAnnotations[0].description;
     response.text = labels;
+    console.log(labels)
+
     const res = await Algorithmia.client("simX0Ugg0WFLCZ/hjQ5x3JFICq31")
     .algo("PetiteProgrammer/ProgrammingLanguageIdentification/0.1.3")
     .pipe(labels)
