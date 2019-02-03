@@ -1,4 +1,4 @@
-require('dotenv').config();
+// require('dotenv').config();
 
 const bodyParser   = require('body-parser');
 const cookieParser = require('cookie-parser');
@@ -8,11 +8,12 @@ const hbs          = require('hbs');
 const mongoose     = require('mongoose');
 const logger       = require('morgan');
 const path         = require('path');
+
 const {Storage} = require('@google-cloud/storage');
 
 const storage = new Storage({
   projectId: 'thehurricanesdb',
-  keyFilename: './owner.json'
+  keyFilename: path.resolve(__dirname, 'owner.json')
 });
 
 storage
