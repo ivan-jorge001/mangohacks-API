@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thehurricanesdb",
+  "private_key_id": "bb559526bef664e88a26adb50c6de5d235c136c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMILhXn1I+BmRv\ndG0sG0exL7SZOUHEfipib5Y8Kcn5f3MLo9NJUmMBZkd6DnXr10iOkZyQL13wDtvb\nipHStPsoyQnXleVOqubHtrHbRJbJJqNKktzJh0SlGrQD3FcuNGdYzmNEx6kAoHot\n3OIoFHu7HlLXToIZG1TASPikFoPtYcsz281cMbObV3OQCrGR3x1UXtI5Av9ZCVWx\nYAKkbaqFRickONYBKcvR6W7N6omO2B2v/Q2t90YBJIAoxWbKmi5d09XmMSNQaic5\n8IizK28G5olxH1j/KE8o3zzwMpLeuly26e3w7ZSmj5q2nvMJRbCJlw3ViW+KJ5bV\nbJiCSZGPAgMBAAECggEAMW6JBZsM4P1OTBk/KMuwaE2bp/FQJmPBItZP5ODfyt4c\nv4hcLajYVentTDb9Qm//X5sOdXIrBuuqPTeIyaRPIBjTG9RuU8caHOn2lxk8hJip\nOXFoKxtpOaxGRJsSt5s0HbLZIjpRiFfUTo/ranZPYkhdGkumQKs4MlpZb+8N4ql5\nOIG/A9cF5oedfpzd7ytXHchTw5IO87hy5QMtkVrh2FOI1tgNlny494l40u3LHWWB\nG9UvPjGuNWOSOVxay0JaVD0dkGCnsSQ4Q+6AUGh1kfn9MR8Q8MW574K14wVvCqGZ\nKMt7iBSQxIiK2oLqVPkzd2w3E1TIUtrIiq7JxxOZmQKBgQD8V04toltU7vAXduQ2\naEWjKYVhX6cX06B4pCzE8AqxgmIrUqVid3014roW/Q6WA2PpbRQ5DzSGfXJGQst4\nsfe9IRRsz9s5SG1kceMvs+NDifPdsFM35UXLj3on1Z8FxSnxUNZvoX3jc9oO4+Pk\nJ0Bliy8nC20Rr+5/qdqZ8YzH6QKBgQDPFnJCEg4GQMGX/ME0Y5vPwQ7bPWMv3LfF\nthX+uvwc7DBRoIpzmgaJ2Sz/jyIie0oH3VjGf/PeAhUpPqDpPTVNMz1YTbNApcMB\nxNJcv79PfhWM7xRxC/gyv8A+9XiOQIyoCxTVxOfPkgDk0pjpit3jEAaLqs/O+Uv7\nJuc6mPEatwKBgD9jcxkVktnYF+ndDOD5+pxNHttiGuhqWgJUQ4bJQfZraVu2rCL7\nHzH9HYAO264ldeC6bP0Ua75pHt61gsVz92bEO4xF/qz6G7jCvy5JgwqBSghjddQx\nvQGwrh/5krPxXmLnSqbKK4SKorlg1+uFTLD1cMffH+v0hPX+5hIL0rCZAoGATulB\nvrV8jJtuackRojH2tJLfY2GgAyP7DybUeM2ttiO2QdSIDYb6yNpt0DAtlLAgRKDu\n7Czjs4xdnerUjCwbvIAy9wwcqxy/E1R5yIf0kYj9E0gjJPSnrkbtLdCCEMq+Dmay\nmMbAgpMjLg6l4BBfft+jbuM27qqGbnyjjeurrD8CgYEAycVSSALfzBMF8jsizKTT\nNRbTNLWNnFuC8X68a9DKh6kdI+jZT2iZJJ3CDumL4C1MRgqdQTbR6iEBjh6SZ7Dn\nBt4E8g6Lfj/Yn0oTlHkFJtHSxerxnYqBKBDsDFW9hFizeCUWjl4P77bV4uCxWUs1\nvdlkOZ5zTEga79tSZNARJnU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "owner-741@thehurricanesdb.iam.gserviceaccount.com",
+  "client_id": "112028487086170975705",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/owner-741%40thehurricanesdb.iam.gserviceaccount.com"
+}

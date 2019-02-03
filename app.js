@@ -10,7 +10,11 @@ const logger       = require('morgan');
 const path         = require('path');
 const {Storage} = require('@google-cloud/storage');
 
-const storage = new Storage();
+const storage = new Storage({
+  projectId: 'thehurricanesdb',
+  keyFilename: './owner.json'
+});
+
 storage
   .getBuckets()
   .then((results) => {
