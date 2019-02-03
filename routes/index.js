@@ -20,9 +20,13 @@ router.post('/uploadImage', async (req, res, next) => {
     const res = await Algorithmia.client("simX0Ugg0WFLCZ/hjQ5x3JFICq31")
     .algo("PetiteProgrammer/ProgrammingLanguageIdentification/0.1.3")
     .pipe(labels)
+    console.log(res)
     response.language = res.get();
+    console.log(response, res, res.get())
 
   } catch (error) {
+    console.log('error')
+
     console.log(error);
     return res.status(500).json(error);
   }
